@@ -3,3 +3,4 @@
 #include "2-booleans-tasks-tests.cpp"
 #include "3-conditions-tasks-tests.cpp"
 #include "4-loops-tasks-tests.cpp"
+#include "5-conditions-n-loops-tasks-tests.cpp"
